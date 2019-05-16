@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Great Stream",
+      "id": 1
+    },
+    {
+      "title": "New ",
+      "description": "NEw2",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "description": "tttt2",
+      "id": 3
+    },
+    {
+      "title": "azertyu",
+      "description": "sdfghjvsffvfdgbgdn",
+      "userId": "105096561814544277932",
+      "id": 4
+    }
+  ]
+}
